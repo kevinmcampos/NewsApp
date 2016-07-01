@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dota News</string>
+    <string name="action_refresh">Refresh</string>
+
+    <string name="no_result">No result was found for current search</string>
+    <string name="internal_error">We\'re sorry. Something unexpected happened. Please try again later</string>
+    <string name="no_internet_connection">It\'s seem that you don\'t have internet connection. Connect it and try again.</string>
+
+</resources>
